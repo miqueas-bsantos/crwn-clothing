@@ -1,2 +1,2 @@
 # crwn-clothing
-A E-commerce aplication using ReactJs
+An E-commerce aplication using ReactJs
